@@ -1,8 +1,12 @@
 # Go Now
 
 
-GoNow is a fast and simple time tool kit 😃
-
+<div >
+  <div style="display: flex; align-items: flex-start;">
+	  GoNow is a fast and simple time tool kit 😃
+  <img align="right" src="https://i.ibb.co/QYLZDj1/1200px-Go-gopher-favicon-svg.png" alt="drawing" style="width:200px;"/>
+  </div>
+</div>
 
 ## Install
 
